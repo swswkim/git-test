@@ -1,2 +1,1 @@
-# This is the real feature.js file.
-
+// This is the real feature.js file.
