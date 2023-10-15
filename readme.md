@@ -1,9 +1,1 @@
-Testing and practicing git features.
-
-If you see this message, you've pulled successfully.
-
-2nd commit.
-
-3rd commit.
-
-Readme file changed on github.
+If you see this, you have rebased successfully.
